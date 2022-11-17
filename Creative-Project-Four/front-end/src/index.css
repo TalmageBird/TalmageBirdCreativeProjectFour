@@ -1,0 +1,144 @@
+
+body {
+    background-color: #535656 !important;
+}
+.stainhead {
+  position: relative;
+  color: white;
+  text-align: center;
+  justify-content: center;
+}
+.centertext {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 90px;
+  font-family: "Copperplate", "Times New Roman", arial;
+  color: #ECE4DA !important;
+}
+.inspirebox {
+  display: flex;
+  background-color: black !important;
+  justify-content: center !important;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-top-color: white;
+  border-bottom-color: white;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  
+}
+.inspiration {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+}
+ul {
+  list-style-type: none !important;
+}
+.footer {
+
+  font-family: "Copperplate", "Times New Roman", arial;
+  color: #ECE4DA !important;
+  font-size: 30px;
+  background-color: #000000 !important;
+}
+.hammer {
+  display:flex;
+  justify-content: space-around;
+  margin-top: 35px;
+}
+.pot {
+  text-align: center;
+  
+}
+.mid {
+  display: flex;
+  font-family: "Copperplate", "Times New Roman", arial;
+  color: #ECE4DA !important;
+}
+.utah {
+  width: 33%;
+  text-align: center;
+  padding-top: 70px;
+  border-right-style: solid;
+  border-right-color: black;
+  
+}
+.california {
+  border-right-style: solid;
+  border-right-color: black;
+  width: 33%;
+  text-align: center;
+  padding-top: 70px;
+}
+.idaho {
+  width: 33%;
+  text-align: center;
+  padding-top: 70px;
+}
+.firsticon {
+  display: flex;
+}
+.secicon {
+  margin-top: 70px;
+}
+.linkcolor {
+  color: #ECE4DA  !important;
+  text-decoration: underline;
+  
+}
+.firstoption {
+  display: flex;
+  background-color: #000000 !important;
+  height: 50px;
+}
+.dop {
+  font-family: "Copperplate", "Times New Roman", arial;
+  text-align: center;
+  color: #ECE4DA !important;
+  font-size: 30px;
+  margin: 40px;
+}
+.chicken {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.tom {
+  font-size: 50px;
+  border-style: solid;
+  margin: 25px;
+}
+.reviewimage {
+  width:100;
+  margin: 50px;
+}
+.reviewfeed {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.git {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  padding-bottom: 10px;
+}
+.nav-item {
+  color: white !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  cursor: pointer !important;
+  text-decoration: none !important;
+}
+.grapes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
